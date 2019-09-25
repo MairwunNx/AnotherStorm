@@ -16,8 +16,8 @@ windowBgActive: #e06c76; // bright blue: fallback for blue filled active areas
 windowFgActive: #bcbcbc; // white: fallback for text on active areas
 windowActiveTextFg: #ea4855; // online blue: fallback for active text like online status
 windowShadowFg: #000000; // black: fallback for shadow
-windowShadowFgFallback: #212121; // gray: fallback for shadow without opacity
-shadowFg: #2121218d; // most shadows (including opacity)
+windowShadowFgFallback: #222222; // gray: fallback for shadow without opacity
+shadowFg: #181818c7; // most shadows (including opacity)
 slideFadeOutBg: #2121218d; // slide animation (chat to profile) fade out filling
 slideFadeOutShadowFg: windowShadowFg; // slide animation (chat to profile) fade out right section shadow
 imageBg: #000000; // image background fallback (when photo size is less than minimum allowed)
@@ -147,7 +147,7 @@ dialogsSentIconFg: #72bcfd; // chat list sent message tick / double tick icon
 dialogsUnreadBg: #4082bc; // chat list unread badge background for not muted chat
 dialogsUnreadBgMuted: #3e546a; // chat list unread badge background for muted chat
 dialogsUnreadFg: #ffffff; // chat list unread badge text
-dialogsBgOver: #202b36; // chat list background with mouse over
+dialogsBgOver: #262626; // chat list background with mouse over
 dialogsOnlineBadgeFg: #63b6ff; // chat list online status
 dialogsNameFgOver: windowBoldFgOver; // chat list name text with mouse over
 dialogsChatIconFgOver: dialogsNameFgOver; // chat list group or channel icon with mouse over
