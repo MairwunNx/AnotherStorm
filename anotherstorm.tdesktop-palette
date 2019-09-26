@@ -450,3 +450,5 @@ botKbDownBg: #323232;
 emojiIconFg: #737373;
 emojiIconFgActive: #e06c76;
 overviewCheckBorder: #e4eaef;
+historyPeerSavedMessagesBg: #606060;
+historyPeerArchiveUserpicBg: dialogsUnreadBgMuted;
