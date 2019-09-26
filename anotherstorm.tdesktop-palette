@@ -244,7 +244,7 @@ historyPeer7UserpicBg: #41a4a6; // sea userpic background
 historyPeer8NameFg: #faa357; // orange group member name
 historyPeer8NameFgSelected: #e06c76; // orange group member name in a selected message
 historyPeer8UserpicBg: #db863b; // orange userpic background
-historyPeerUserpicFg: windowFgActive; // default userpic initials
+historyPeerUserpicFg: #202020; // default userpic initials
 historyScrollBarBg: #7f84897a; // scroll bar current rectangle, the bar itself in the chat view (adjusted)
 historyScrollBarBgOver: #64686cbc; // scroll bar current rectangle with mouse over it in the chat view (adjusted)
 historyScrollBg: #565a5e4c; // scroll bar background (adjusted)
@@ -282,7 +282,7 @@ msgOutMonoFgSelected: #e06c76; // outbox message monospace text in a selected te
 msgDateImgFg: #fffffff2; // media message time text (like time text in a sent photo)
 msgDateImgBg: #00000054; // media message time bubble background (like time bubble in a sent photo) or file with thumbnail download icon circle background
 msgDateImgBgOver: #00000074; // media message download icon circle background with mouse over (like file with thumbnail download icon)
-msgDateImgBgSelected: #204f7887; // selected media message time bubble background
+msgDateImgBgSelected: #e06c7687; // selected media message time bubble background
 msgFileThumbLinkInFg: lightButtonFg; // inbox media file message with thumbnail download / open with button text
 msgFileThumbLinkInFgSelected: #dedede; // inbox selected media file message with thumbnail download / open with button text
 msgFileThumbLinkOutFg: #e06c76; // outbox media file message with thumbnail download / open with button text
@@ -343,7 +343,7 @@ videoPlayIconBg: #0000007f; // other video play icon background (like when a lin
 videoPlayIconFg: #ffffff; // other video play icon arrow (like when a link to a vimeo video with a webpage preview is sent)
 toastBg: #000000b2; // toast notification background (like when you click on your t.me link when editing your username)
 toastFg: windowFgActive; // toast notification text (like when you click on your t.me link when editing your username)
-reportSpamBg: #363c42; // report spam panel background (like a non contact user writes your for the first time)
+reportSpamBg: #282828; // report spam panel background (like a non contact user writes your for the first time)
 reportSpamFg: windowFg; // report spam panel text (when you send a report from that panel)
 historyToDownBg: #323232; // arrow button background (to scroll to the end of the viewed chat)
 historyToDownBgOver: #353535; // arrow button background with mouse over
@@ -369,8 +369,8 @@ historyComposeButtonBgRipple: #343434; // unblock / join channel / mute channel 
 overviewCheckBg: #00000040; // shared files / links checkbox background for not selected rows when some rows are selected
 overviewCheckFg: #ffffff; // shared files / links checkbox icon for not selected rows when some rows are selected
 overviewCheckFgActive: #ffffff; // shared files / links checkbox icon for selected rows
-overviewPhotoSelectOverlay: #3fa2e333; // shared photos / videos / links fill for selected rows
-profileStatusFgOver: #677a8b; // group members list in group profile user last seen text with mouse over
+overviewPhotoSelectOverlay: #e06c7633; // shared photos / videos / links fill for selected rows
+profileStatusFgOver: #e06c76; // group members list in group profile user last seen text with mouse over
 profileVerifiedCheckBg: windowBgActive; // profile verified check icon background
 profileVerifiedCheckFg: #202020; // profile verified check icon tick
 profileAdminStartFg: #e06c76; // group members list admin star icon
@@ -390,7 +390,7 @@ mainMenuCloudBg: #414141; //
 mediaPlayerBg: #202020; // audio file player background
 mediaPlayerActiveFg: windowBgActive; // audio file player playback progress already played part
 mediaPlayerInactiveFg: sliderBgInactive; // audio file player playback progress upcoming (not played yet) part with mouse over
-mediaPlayerDisabledFg: #9dd1ef; // audio file player loading progress (when you're playing an audio file and switch to the previous one which is not loaded yet)
+mediaPlayerDisabledFg: #e06c76; // audio file player loading progress (when you're playing an audio file and switch to the previous one which is not loaded yet)
 mediaviewFileBg: windowBg; // file rectangle background (when you view a png file in Media Viewer and go to a previous, not loaded yet, file)
 mediaviewFileNameFg: windowFg; // file name in file rectangle
 mediaviewFileSizeFg: windowSubTextFg; // file size text in file rectangle
@@ -409,7 +409,7 @@ mediaviewControlBg: #0000003c; // controls background (like next photo / previou
 mediaviewControlFg: windowFgActive; // controls icon (like next photo / previous photo)
 mediaviewCaptionBg: #11111180; // caption text background (when viewing photo with caption)
 mediaviewCaptionFg: mediaviewControlFg; // caption text
-mediaviewTextLinkFg: #70baf5; // caption text link
+mediaviewTextLinkFg: #e06c76; // caption text link
 mediaviewSaveMsgBg: toastBg; // save to file toast message background in Media Viewer
 mediaviewSaveMsgFg: toastFg; // save to file toast message text
 mediaviewPlaybackActive: #c7c7c7; // video playback progress already played part
@@ -446,7 +446,7 @@ importantTooltipFg: toastFg; //
 importantTooltipFgLink: #65b6fc; // 
 filterInputActiveBg: #242424;
 botKbBg: #282828;
-botKbDownBg: #242f3d;
+botKbDownBg: #323232;
 emojiIconFg: #737373;
 emojiIconFgActive: #e06c76;
 overviewCheckBorder: #e4eaef;
