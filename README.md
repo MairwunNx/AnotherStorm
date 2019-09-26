@@ -18,6 +18,17 @@ $ git clone https://github.com/MairwunNx/AnotherStorm.git
 https://github.com/MairwunNx/AnotherStorm/archive/Desktop-1.8.X.zip
 ```
 
+## 🚀 Install using Telegram:
+> ##### Telegram has a built-in link handler for installing themes. Just follow the link below
+
+```
+for all:
+t.me/addtheme/anotherstorm
+
+primary for russia: 
+https://t-do.ru/addtheme/anotherstorm
+```
+
 ## 🎉 Activating theme
 
 1. In Telegram Desktop, go to setting and under the **Chat background** section click on **Choose from file**.
