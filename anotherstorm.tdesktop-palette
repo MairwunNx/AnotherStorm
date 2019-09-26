@@ -389,7 +389,7 @@ mainMenuCloudFg: activeButtonFg; //
 mainMenuCloudBg: #414141; // 
 mediaPlayerBg: #202020; // audio file player background
 mediaPlayerActiveFg: windowBgActive; // audio file player playback progress already played part
-mediaPlayerInactiveFg: sliderBgInactive; // audio file player playback progress upcoming (not played yet) part with mouse over
+mediaPlayerInactiveFg: #323232; // audio file player playback progress upcoming (not played yet) part with mouse over
 mediaPlayerDisabledFg: #eb959c; // audio file player loading progress (when you're playing an audio file and switch to the previous one which is not loaded yet)
 mediaviewFileBg: windowBg; // file rectangle background (when you view a png file in Media Viewer and go to a previous, not loaded yet, file)
 mediaviewFileNameFg: windowFg; // file name in file rectangle
