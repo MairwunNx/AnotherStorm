@@ -56,8 +56,8 @@ scrollBarBg: #ffffff53; // default scroll bar current rectangle, the bar itself 
 scrollBarBgOver: #ffffff7a; // default scroll bar current rectangle with mouse over it
 scrollBg: #ffffff1a; // default scroll bar background
 scrollBgOver: #ffffff2c; // default scroll bar background with mouse over the scroll bar
-smallCloseIconFg: #55616c; // small X icon (like in Show all sessions box to the right for sessions termination)
-smallCloseIconFgOver: #a3a3a3; // small X icon with mouse over
+smallCloseIconFg: #5f5f5f; // small X icon (like in Show all sessions box to the right for sessions termination)
+smallCloseIconFgOver: #9c9c9c; // small X icon with mouse over
 radialFg: windowFgActive; // default radial loader line (like in Media Viewer when loading a photo)
 radialBg: #00000056; // default radial loader background (like in Media Viewer when loading a photo)
 placeholderFg: #414141; // default input field placeholder when field is not focused (like in phone input field when you log in)
@@ -69,7 +69,7 @@ checkboxFg: #606060; // default unchecked checkbox rounded rectangle (and also e
 sliderBgInactive: #606060; // default slider not active bar (like in Settings when you choose interface scale or custom notifications count)
 sliderBgActive: #ea4855; // default slider active bar (like in Settings when you choose interface scale or custom notifications count)
 tooltipBg: #262626; // tooltip background (like when you put mouse over the message timestamp and wait)
-tooltipFg: #bcbcbc; // tooltip text
+tooltipFg: #dedede; // tooltip text
 tooltipBorderFg: #262626; // tooltip border
 titleShadow: #00000000; // one pixel line shadow at the bottom of custom window title
 titleBg: #222222; // custom window title background when window is inactive
@@ -118,11 +118,11 @@ contactsStatusFgOver: #747474; // contacts (and some other) box row additional t
 contactsStatusFgOnline: #e06c76; // contacts (and some other) box row active additional text (like online status)
 photoCropFadeBg: layerBg; // avatar crop box fade background (when choosing a new photo in Settings or for a group)
 photoCropPointFg: #ffffff7f; // avatar crop box corner rectangles (when choosing a new photo in Settings or for a group)
-callArrowFg: #49a2f0; // received phone call arrow (in calls list box)
-callArrowMissedFg: #ed5050; // missed phone call arrow (in calls list box)
+callArrowFg: #76e06c; // received phone call arrow (in calls list box)
+callArrowMissedFg: #e06c76; // missed phone call arrow (in calls list box)
 introBg: windowBg; // login background
-introTitleFg: #eeeeee; // login title text
-introDescriptionFg: #72879b; // login description text
+introTitleFg: #bbbbbb; // login title text
+introDescriptionFg: #9c9c9c; // login description text
 introErrorFg: #e94040; // login error text (like when providing a wrong log in code)
 introCoverTopBg: #124a82; // intro gradient top (from)
 introCoverBottomBg: #23659f; // intro gradient bottom (to)
@@ -209,11 +209,11 @@ historyIconFgInverted: #ffffffe5; // media message tick / double tick icon (like
 historySendingOutIconFg: #e06c76; // outbox sending message icon (clock)
 historySendingInIconFg: #e06c76; // inbox sending message icon (clock) (like in sent messages to yourself or in sent messages to a channel)
 historySendingInvertedIconFg: #ffffffc8; // media sending message icon (clock) (like in sent photo)
-historyCallArrowInFg: #5093d6; // received phone call arrow
+historyCallArrowInFg: #76e06c; // received phone call arrow
 historyCallArrowInFgSelected: #ffffff; // received phone call arrow in a selected message
 historyCallArrowMissedInFg: callArrowMissedFg; // missed phone call arrow
 historyCallArrowMissedInFgSelected: #ffffff; // missed phone call arrow in a selected message
-historyCallArrowOutFg: #ffffff; // outgoing phone call arrow
+historyCallArrowOutFg: #76e06c; // outgoing phone call arrow
 historyCallArrowOutFgSelected: #ffffff; // outgoing phone call arrow
 historyUnreadBarBg: #323232; // new unread messages bar background
 historyUnreadBarBorder: #03080d00; // new unread messages bar shadow
@@ -423,23 +423,23 @@ mediaviewTransparentBg: #ffffff; // transparent filling part (when viewing a tra
 mediaviewTransparentFg: #cccccc; // another transparent filling part
 notificationBg: windowBg; // custom notification window background
 callBg: #202020f5; // phone call popup background
-callNameFg: #ffffff; // phone call popup name text
+callNameFg: #bbbbbb; // phone call popup name text
 callFingerprintBg: #00000066; // phone call popup emoji fingerprint background
-callStatusFg: #aaabac; // phone call popup status text
-callIconFg: #ffffff; // phone call popup answer, hangup and mute mic icon
-callAnswerBg: #488fc9; // phone call popup answer button background
-callAnswerRipple: #4286c2; // phone call popup answer button ripple effect
-callAnswerBgOuter: #3f95eb26; // phone call popup answer button outer ripple effect
-callHangupBg: #cc4646; // phone call popup hangup button background
-callHangupRipple: #ca4141; // phone call popup hangup button ripple effect
+callStatusFg: #9d9d9d; // phone call popup status text
+callIconFg: #202020; // phone call popup answer, hangup and mute mic icon
+callAnswerBg: #76e06c; // phone call popup answer button background
+callAnswerRipple: #34343471; // phone call popup answer button ripple effect
+callAnswerBgOuter: #78e06c9c; // phone call popup answer button outer ripple effect
+callHangupBg: #e06c76; // phone call popup hangup button background
+callHangupRipple: #34343471; // phone call popup hangup button ripple effect
 callCancelBg: #ffffff; // phone call popup line busy cancel button background
-callCancelFg: #536271; // phone call popup line busy cancel button icon
-callCancelRipple: #435363; // phone call popup line busy cancel button ripple effect
+callCancelFg: #747474; // phone call popup line busy cancel button icon
+callCancelRipple: #606060; // phone call popup line busy cancel button ripple effect
 callMuteRipple: #ffffff12; // phone call popup mute mic ripple effect
-callBarBg: #366693; // active phone call bar background
-callBarMuteRipple: #4b7dab; // active phone call bar mute and hangup button ripple effect
-callBarBgMuted: #35495d; // phone call bar with muted mic background
-callBarUnmuteRipple: #435b73; // phone call bar with muted mic mute and hangup button ripple effect
+callBarBg: #323232; // active phone call bar background
+callBarMuteRipple: #424242; // active phone call bar mute and hangup button ripple effect
+callBarBgMuted: #282828; // phone call bar with muted mic background
+callBarUnmuteRipple: #424242; // phone call bar with muted mic mute and hangup button ripple effect
 callBarFg: dialogsNameFgActive; // phone call bar text and icons
 importantTooltipBg: toastBg; // 
 importantTooltipFg: toastFg; // 
