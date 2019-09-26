@@ -14,7 +14,7 @@ windowBoldFg: #bbbbbb; // dark gray: fallback for bold text
 windowBoldFgOver: #dfdfdf; // dark gray: fallback for bold text with mouse over
 windowBgActive: #e06c76; // bright blue: fallback for blue filled active areas
 windowFgActive: #bcbcbc; // white: fallback for text on active areas
-windowActiveTextFg: #ea4855; // online blue: fallback for active text like online status
+windowActiveTextFg: #e06c76; // online blue: fallback for active text like online status
 windowShadowFg: #000000; // black: fallback for shadow
 windowShadowFgFallback: #222222; // gray: fallback for shadow without opacity
 shadowFg: #181818c7; // most shadows (including opacity)
