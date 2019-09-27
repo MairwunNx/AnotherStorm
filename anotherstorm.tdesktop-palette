@@ -452,3 +452,5 @@ emojiIconFgActive: #e06c76;
 overviewCheckBorder: #e4eaef;
 historyPeerSavedMessagesBg: #606060;
 historyPeerArchiveUserpicBg: dialogsUnreadBgMuted;
+profileOtherAdminStarFg: #747474;
+profileOtherAdminStarFgOver: #9d9d9d;
