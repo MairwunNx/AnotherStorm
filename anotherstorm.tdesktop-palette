@@ -399,9 +399,9 @@ mediaviewFileYellowCornerFg: #e8a659; // yellow file thumbnail placeholder corne
 mediaviewFileGreenCornerFg: #49a957; // green file thumbnail placeholder corner in file rectangle (for a file without thumbnail, like .exe)
 mediaviewFileBlueCornerFg: #599dcf; // blue file thumbnail placeholder corner in file rectangle (for a file without thumbnail, like .dmg)
 mediaviewFileExtFg: activeButtonFg; // file extension text in file thumbnail placeholder in file rectangle
-mediaviewMenuBg: #383838; // context menu in Media Viewer background
-mediaviewMenuBgOver: #505050; // context menu item background with mouse over
-mediaviewMenuBgRipple: #676767; // context menu item ripple effect
+mediaviewMenuBg: #202020; // context menu in Media Viewer background
+mediaviewMenuBgOver: #323232; // context menu item background with mouse over
+mediaviewMenuBgRipple: #424242; // context menu item ripple effect
 mediaviewMenuFg: windowFgActive; // context menu item text
 mediaviewBg: #222222eb; // Media Viewer background
 mediaviewVideoBg: imageBg; // Media Viewer background when viewing a video in full screen
