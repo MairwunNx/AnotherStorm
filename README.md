@@ -2,40 +2,26 @@
 
 > ## A dark theme for telegram desktop
 
-#### ❗ Compatibility with telegram `1.8.X` version.
-
-## 🧐 Install using Git:
-> ##### If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```
-$ git clone https://github.com/MairwunNx/AnotherStorm.git
-```
-
-## 🤔 Install manually
-> #####  Download using the GitHub .zip download option and unzip them.
-
-``` 
-https://github.com/MairwunNx/AnotherStorm/archive/Desktop-1.8.X.zip
-```
+#### ❗ Compatibility with telegram 1.8.X - 2.1.6 (and maybe newer) versions.
 
 ## 🚀 Install using Telegram:
 > ##### Telegram has a built-in link handler for installing themes. Just follow the link below
 
 ```
-for all:
+🌍 For all:
 t.me/addtheme/anotherstorm
 
-primary for russia: 
+🇷🇺 For russian users: 
 https://t-do.ru/addtheme/anotherstorm
 ```
 
-## 🎉 Activating theme
+## ✊ Manually installing
 
-1. In Telegram Desktop, go to setting and under the **Chat background** section click on **Choose from file**.
-2. Select the `colors.tdesktop-theme` file you just downloaded.
+1. In Telegram Desktop, go to setting and under the **Chat settings** section click on **Choose from file** in **Chat background**.
+2. Select the `anotherstorm.tdesktop-theme` file you just downloaded.
 3. Click **Keep Changes** to apply the theme.
 
-## 😎 Result
+## 🎉 Result
 
 ![Another Storm theme](https://github.com/MairwunNx/AnotherStorm/blob/Desktop-1.8.X/screenshots/AnotherStorm01.png)
 
