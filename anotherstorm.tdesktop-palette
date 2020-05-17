@@ -330,9 +330,9 @@ msgWaveformOutActive: #e06c76; // outbox voice message active waveform lines (li
 msgWaveformOutActiveSelected: #e06c76; // outbox selected voice message active waveform lines (like played part of currently playing voice message)
 msgWaveformOutInactive: #5f5f5f; // outbox voice message inactive waveform lines (like upcoming part of currently playing voice message)
 msgWaveformOutInactiveSelected: #737373; // outbox selected voice message inactive waveform lines (like upcoming part of currently playing voice message)
-msgBotKbOverBgAdd: #80b1db0f; // this is painted over a bot inline keyboard button (which has msgServiceBg background) when mouse is over that button
+msgBotKbOverBgAdd: #bababa0f; // this is painted over a bot inline keyboard button (which has msgServiceBg background) when mouse is over that button
 msgBotKbIconFg: msgServiceFg; // bot inline keyboard button icon in the top-right corner (like in @vote bot when a poll is ready to be shared)
-msgBotKbRippleBg: #92c0e50b; // bot inline keyboard button ripple effect
+msgBotKbRippleBg: #e8e8e80b; // bot inline keyboard button ripple effect
 mediaInFg: msgInDateFg; // inbox media message status text (like in file that is being downloaded)
 mediaInFgSelected: msgInDateFgSelected; // inbox selected media message status text (like in file that is being downloaded)
 mediaOutFg: msgOutDateFg; // outbox media message status text (like in file that is being downloaded)
